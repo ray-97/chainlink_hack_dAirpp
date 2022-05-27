@@ -11,9 +11,9 @@ ReactDOM.render(
   <React.StrictMode>
     <MoralisProvider appId="dKJm4mxLE1CLwa97s5Dj5llKt1j5Oev6llGMOpsY" serverUrl="https://1qqmd69igmhq.usemoralis.com:2053/server">
       <NotificationProvider>
-      <BrowserRouter>
+      {/* <BrowserRouter> */}
         <App />
-      </BrowserRouter>
+      {/* </BrowserRouter> */}
       </NotificationProvider>
     </MoralisProvider>
   </React.StrictMode>,

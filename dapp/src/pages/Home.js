@@ -3,7 +3,7 @@ import "./Home.css";
 import { Link } from "react-router-dom";
 import bg from "../images/frontpagebg.jpg";
 import logo from "../images/plane_logo_1.svg";
-import { Icon, Button, Select, DatePicker, Input, ConnectButton } from "web3uikit";
+import { Icon, Button, Select, DatePicker, Input, ConnectButton } from "web3uikit"; // 
 import { useState } from "react";
 
 const Home = () => {
