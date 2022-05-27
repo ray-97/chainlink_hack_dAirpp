@@ -1,0 +1,3 @@
+initiator - kick of a sequence of tasks
+adaptor - specifies what task to carry out. e.g http get, json parse, ethtx - an adaptor that makes txn back on chain.
+owner only update token for api call
